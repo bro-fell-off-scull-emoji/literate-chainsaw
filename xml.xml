@@ -1,0 +1,7 @@
+<title>web proxy</title>
+<script>
+    function getProxy() {
+        return "http://
+            <IP_ADDRESS>:8080";
+    }
+</script src="script.js"></script>
